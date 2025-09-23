@@ -1,19 +1,15 @@
-<h1> Hi there 👋 I'm John! </h1>  
 
-<h2>  ☠💻Cybersecurity Projects: </h2>
+# 🦅 John Idundun  
+**`Cloud Support Engineer | Security-Focused'`** 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
-<h2> 🎓🔑Certifications: </h2>
+# About Me
+- I'm passionate about building and maintaining secure cloud environments.
+- Actually pursuing AWS Cloud Practitioner and Security+.
+- My work centers on AWS, Azure, automation, and best practices that protect systems and data.
 
-**jcoder88/jcoder88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skill stack
 
-Here are some ideas to get you started:
+💡 *“Security is not a product, but a process.”*  
 
-- 🔭 I’m currently working on AWS Core Services, Programming & Scripting
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+
