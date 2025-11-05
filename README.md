@@ -5,7 +5,7 @@
 
 # Hi, I'm John, an IT and Cloud Support Specialist☺️ 
 - I'm passionate about building and maintaining secure cloud environments.
-- Currently pursuing AWS Cloud Practitioner, Azure 900 and CompTia Security+ certifications.
+- Currently pursuing AWS Cloud Practitioner, Azure 900, and CompTIA Security+ certifications.
 - Fun Fact: I enjoy solving cybersecurity challenges on TryHackMe.
 
 
@@ -15,7 +15,7 @@
 ---
 
 ## Projects - showcase
-- coming soon 😉 
+- [Enterprise Active Directory Deployment & Management in Azure](https://github.com/jcoder88/EnterpriseActiveDirectoryLabInAzure) (Medium Website Included)
 
 
 ## Socials
