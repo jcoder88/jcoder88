@@ -3,7 +3,7 @@
 **`IT & Cloud Support | Security-Focused`** 
 
 
-# About Me
+# Hi, I'm John, an IT and Cloud Support Specialist☺️ 
 - I'm passionate about building and maintaining secure cloud environments.
 - Currently pursuing AWS Cloud Practitioner, Azure 900 and CompTia Security+ certifications.
 - Fun Fact: I enjoy solving cybersecurity challenges on TryHackMe.
