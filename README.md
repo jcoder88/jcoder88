@@ -1,6 +1,6 @@
 
 # 🦅 John Idundun  
-**`Cloud Support Engineer | Security-Focused`** 
+**`IT & Cloud Support | Security-Focused`** 
 
 
 # About Me
