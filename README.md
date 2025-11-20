@@ -1,11 +1,11 @@
 
 # 🦅 John Idundun  
-**`IT & Cloud Support | Security-Focused`** 
+**`IT & Cloud Support Engineer| Security-Focused`** 
 
 
-# Hi, I'm John, an IT and Cloud Support Specialist☺️ 
+# Hi, I'm John, Cloud and IT Support Engineer☺️ 
 - I'm passionate about building and maintaining secure cloud environments.
-- Currently pursuing AWS Cloud Practitioner, Azure 900, and CompTIA Security+ certifications.
+- Certified AWS Cloud Practitioner & Azure 900.
 - Fun Fact: I enjoy solving cybersecurity challenges on TryHackMe.
 
 
