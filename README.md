@@ -15,7 +15,7 @@
 ---
 
 ## Projects - showcase
-- [Enterprise Active Directory Deployment & Management in Azure](https://github.com/jcoder88/EnterpriseActiveDirectoryLabInAzure) (Medium Website Included)
+- [Active Directory Administration (On-Premises) in Azure](https://github.com/jcoder88/EnterpriseActiveDirectoryLabInAzure) (Medium Website Included)
 
 
 ## Socials
